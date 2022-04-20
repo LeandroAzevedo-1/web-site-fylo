@@ -40,7 +40,7 @@ header{
 }
 .cabecalho-conteudo .paragrafo-primeiro-conteudo{
     width: 400px;
-    color: hsl(0, 0%, 100%);
+    color: hsla(0, 0%, 100%, 0.673);
     margin: 30px 0;
     z-index: 1;
     text-align: center;
