@@ -79,11 +79,13 @@
     
 }
 @media screen and (max-width: 460px){
-    .conteudo-central-get {
-        width: 325px;
+    .cards-de-colaboradores {
+        align-items: center;
+        justify-content: center;
     }
     .paragrafo-primeiro-conteudo {
        padding: 15px;
+       max-width: 100%;
     }
     .cabecalho {
         flex-direction: column;
@@ -91,6 +93,14 @@
     .cabecalho a{
         margin-top: 30px;
         font-size: 20px;
+    }
+    .segunda-secao .item {
+        max-width: 100%;
+    }
+    .cards .card {
+        width: 90%;
+        padding: 15px;
+
     }
     
 }

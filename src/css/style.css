@@ -139,6 +139,7 @@ header{
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     padding-bottom: 160px;
     gap: 30px;
+    min-width: 100%;
 }
 .card{
     padding: 40px ;
