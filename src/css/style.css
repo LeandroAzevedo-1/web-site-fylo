@@ -122,11 +122,11 @@ header{
     border-bottom: 1px solid  hsla(176, 68%, 64%, 0.729);
     color:hsla(176, 68%, 64%, 0.684);
     padding-bottom: 10px;
-    width: 190px;
+    width: 180px;
     font-size: 15px;
 }
 .produtividade .produtividade-conteudo a img{
-    margin-left: 10px;
+    margin-left: 25px;
 }
 
 .cards-de-colaboradores{
