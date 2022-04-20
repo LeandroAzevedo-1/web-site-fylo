@@ -1,0 +1,87 @@
+@media screen and (max-width: 900px) {
+    .conteudo-central-get{
+        width: 90%;
+        padding: 10px;
+    }
+    .produtividade {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+    }
+    .produtividade-conteudo {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    .produtividade .produtividade-conteudo p {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .cards {
+        gap: 10px;
+    }
+    .card {
+        padding: 15px;
+    }
+    .rodape{
+        width: 90%;
+    }
+    .rodape-conteudo {
+        display: inline-block;
+        margin: 40px;
+    }
+    .rodape-conteudo .contato {
+        margin-top: 40px;
+    }
+    .rodape-conteudo .redes-sociais {
+        text-align: center;
+    }
+    .rodape-logo{
+        padding: 40px 0 0 40px;
+    }
+    
+}
+@media screen and (max-width: 700px){
+    .cards{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 40px;
+    }
+    .card {
+        padding: 40px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .cabecalho-conteudo .imagem-conteudo,
+    .cabecalho-conteudo .conteudo-titulo,
+    .produtividade .imagem-protudividade {
+        width: 90%;
+    }
+    .conteudo-central-get {
+        text-align: center;
+    }
+    .conteudo-central-get p{
+        padding: 20px;
+    }
+    .conteudo-central-get .inputs{
+        flex-direction: column;
+    }
+    .inputs #email, .inputs #submit {
+        width: 80%;
+    }
+    
+}
+@media screen and (max-width: 460px){
+    .paragrafo-primeiro-conteudo {
+       padding: 15px;
+    }
+    .cabecalho {
+        flex-direction: column;
+    }
+    .cabecalho a{
+        margin-top: 30px;
+        font-size: 20px;
+    }
+}
