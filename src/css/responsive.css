@@ -67,6 +67,7 @@
     }
     .conteudo-central-get .inputs{
         flex-direction: column;
+        padding: 10px;
     }
     .inputs #email, .inputs #submit {
         width: 80%;

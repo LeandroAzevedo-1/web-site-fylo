@@ -166,11 +166,11 @@ header{
 }
 .conteudo-central-get{
     width: 750px;
-    margin: 0 auto;
+    margin:  auto;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     background: hsl(217, 28%, 15%);
-    margin-top: -120px;
+    margin-top: -120px ;
 }
 .conteudo-central-get h5{
     color: hsl(0, 0%, 100%);
