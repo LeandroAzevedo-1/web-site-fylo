@@ -79,6 +79,13 @@
     
 }
 @media screen and (max-width: 460px){
+    .cabecalho a{
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    .cabecalho img {
+        width: 250px;
+    }
     .cards-de-colaboradores {
         align-items: center;
         justify-content: center;
@@ -90,19 +97,22 @@
     .cabecalho {
         flex-direction: column;
     }
-    .cabecalho a{
-        margin-top: 30px;
-        font-size: 20px;
-    }
     .segunda-secao .item {
         max-width: 100%;
     }
-    .cards .card {
-        width: 90%;
-        padding: 15px;
-
+    .cards{ 
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 10px;
     }
-    .conteudo-central-get{
-        margin: 0px;
+    .cards .card {
+        width: 100%;
+        padding: 15px;
+        
+    }
+    .rodape { 
+        padding: 0 0;
+    }
+    .conteudo-central-get {
+        margin-top: -150px;
     }
 }
