@@ -40,6 +40,7 @@
     }
     .rodape-logo{
         padding: 40px 0 0 40px;
+        max-width: 90%;
     }
     
 }
@@ -72,9 +73,15 @@
     .inputs #email, .inputs #submit {
         width: 80%;
     }
+    .rodape-conteudo .icon-localidade{
+        width: 250px;
+    }
     
 }
 @media screen and (max-width: 460px){
+    .conteudo-central-get {
+        width: 325px;
+    }
     .paragrafo-primeiro-conteudo {
        padding: 15px;
     }
