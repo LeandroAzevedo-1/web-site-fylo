@@ -2,6 +2,7 @@
 
 Esta é uma solução para o [desafio da página de destino do tema escuro Fylo no Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
+
 ## Índice
 
  - Nesse web site tive grandeS aprendizagem com HTML E CSS3 E JAVASCRIPT.
@@ -22,31 +23,16 @@ Esta é uma solução para o [desafio da página de destino do tema escuro Fylo 
 
 ### Links
 
-- Solution URL: [Veja como ficou o web site FYLO](https://leandroazevedo-1.github.io/web-site-fylo/)
+- Solução URL: [Veja como ficou o web site FYLO](https://leandroazevedo-1.github.io/web-site-fylo/)
 - Repositório: [Repositório](https://github.com/LeandroAzevedo-1/web-site-fylo)
 
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 Se você quiser mais ajuda para escrever markdown, recomendamos conferir [The Markdown Guide](https://www.markdownguide.org/) para saber mais.
 ## Autor
 
 - Website - [Leandro de Azevedo Souza](https://www.linkedin.com/in/leandro-de-azevedo-souza/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/LeandroAzevedo-1)
+- Frontend Mentor - [Perfil](https://www.frontendmentor.io/profile/LeandroAzevedo-1)
 
-## Agradecimentos
 
-E muito bom poder ter esses projetos para desenvolver nossas habilidades.
-agradeço FrontEnd Mentor pela oportunidade. 
 
 
